@@ -3,7 +3,7 @@ Machine-Learning-Image
 
 Read-Learn from a set of images and categorises between different set of images according to the Images learned
 
-This project was created by me and my parten Sharmita Das
+This project was created by me and my partner Sharmita Das
 
 The project is where by given a set of images by the user the program learns from the image and eventually train itself.
 
